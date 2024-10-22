@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+    
+Body {
+    font-family: 'Comic Sans MS';
+    background: url("https://picsum.photos/1600/900"); /* Link da imagem aleatória */
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Garante que o body ocupe toda a altura da tela */
+    transition: background 0.1s ease; /* Transição suave ao mudar a imagem de fundo */
+}
+
+h1 {
+    color: rgb(4, 68, 4);
+}
+    
+.container {
+    padding: 20px;
+    background-color: #ffffff73;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+    
+.buttons {
+    margin: 30px 0;
+    display: flex;
+    gap: 40px;
+        
+}
+    
+button {
+    padding: 10px;
+    font-size: 50px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    transition: opacity 0.5s ease-in-out;
+}
+    
+button:hover {
+    opacity: 0.7; 
+}
+    
+#rock {
+    background-color: #77240b;
+}
+    
+#paper {
+    background-color: #ecf0e6;
+}
+    
+#scissors {
+    background-color: #ee0047;
+}
+    
+p {
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+    color: rgb(4, 68, 4);
+}
+
+.your-score span {
+    color: rgb(7, 5, 139);
+}
+    
+.machine-score span {
+    color: rgb(255, 8, 0)
+}
+
+.emoji {
+    font-family: "Apple Color Emoji", "Segoe Ui Emoji", "Noto Color Emoji", sans-serif;
+    font-size: 28px;
+    display: inline-block;
+    vertical-align: middle;
+}

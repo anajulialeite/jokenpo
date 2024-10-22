@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Imagem/favicon_io/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Jokenpô</title>
+</head>
+<body>
+    <div class="container">
+
+        <h1>Jokenpô</h1>
+
+        <div class="buttons">
+            <button id="rock" onclick="playHuman('rock')">&#128074;</button>
+            <button id="paper" onclick="playHuman('paper')">&#128400;</button>
+            <button id="scissors" onclick="playHuman('scissors')">&#9996;</button>
+        </div>
+
+        <p class="result"></p>
+
+        <p class="your-score">Sua pontuação: <span id = "human-score">0</span></p>
+        <p class="machine-score">Pontuação do computador: <span id = "machine-score">0</span></p>
+
+    </div>
+
+    <script src="./scripts.js"></script>
+    
+</body>
+</html>
