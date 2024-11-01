@@ -45,5 +45,9 @@ function playHuman(jogador) {
     updateScore();
 }
 
+function reset() {
+    location.reload(); // Recarrega a página
+}
+
 //Define a imagem de fundo ao carregar a página
 window.onload = setBackgroundImage;
