@@ -84,3 +84,10 @@ p {
     display: inline-block;
     vertical-align: middle;
 }
+
+.reset-button {
+    font-family: 'Comic Sans MS';
+    color: rgb(4, 68, 4);
+    font-size: 20px;
+    font-weight: bold;
+}
