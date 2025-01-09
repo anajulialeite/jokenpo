@@ -1,4 +1,4 @@
-# Jekenpô
+# Jokenpô
 
 <img src="Imagem/html-css-js.png" alt="Logo" align="center" width="150">
 
