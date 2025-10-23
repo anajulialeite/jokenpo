@@ -14,6 +14,6 @@ Tive uma grande dificuldade para criar esse projeto, pois o meu botão do papel 
 
 Esse é o link do meu projeto: https://anajulialeite.github.io/jekenpo/
 
-# License
+## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
