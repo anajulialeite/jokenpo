@@ -6,9 +6,13 @@ Eu já tinha esse código em Python em um curso que fiz com o Gustavo Guanabara 
 
 Tive uma grande dificuldade para criar esse projeto, pois o meu botão do papel não estava funcionando corretamente; ele retornava como tesoura. Passei horas tentando corrigir sem sucesso. Até que, em momento de inspiração divina, me lembrei de corrigir cada parâmetro do código e descobri que o erro estava no HTML e não no JS, o parâmetro do papel estava escrito errado, por isso não era reconhecido. Agora, o projeto está pronto, e espero que vocês se divirtam!
 
-Esse é o link do meu projeto: https://anajulialeite.github.io/jekenpo/
+## Demonstração
 
 <img src="Imagem/JOKENPÔ.png" alt="Jokenpô" align="center" width="300">
+
+## Link do projeto
+
+Esse é o link do meu projeto: https://anajulialeite.github.io/jekenpo/
 
 # License
 
