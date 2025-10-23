@@ -12,7 +12,7 @@ Tive uma grande dificuldade para criar esse projeto, pois o meu botão do papel 
 
 ## Link do projeto
 
-Esse é o link do meu projeto: https://anajulialeite.github.io/jekenpo/
+Este é o link do projeto <a href= "https://anajulialeite.github.io/jekenpo/">Jokenpô</a>
 
 ## License
 
