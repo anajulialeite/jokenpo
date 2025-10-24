@@ -8,7 +8,7 @@ Tive uma grande dificuldade para criar esse projeto, pois o meu botão do papel 
 
 ## Demonstração
 
-<img src="Imagem/JOKENPÔ.png" alt="Jokenpô" align="center" width="300">
+<img src="Imagem/JOKENPÔ.png" alt="Jokenpô" align="center" width="300"> 
 
 ## Link do projeto
 
