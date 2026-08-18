@@ -2,13 +2,28 @@
 
 <img src="Imagem/HtmlCssJavaScript.png" alt="Logo" align="center" width="150">
 
-Eu já tinha esse código em Python em um curso que fiz com o Gustavo Guanabara e apenas o converti para JavaScript. Vi esse site no LinkedIn e quis replicá-lo. Eu não sabia que era possível usar imagens aleatórias utilizando um link, isso foi uma novidade para mim, e consegui implementar no meu projeto. Ele é super simples de usar: basta você escolher com o que quer jogar.  O site informa a sua escolha, mostra quem venceu e exibe os pontos que o jogador e o computador conseguiram na partida. 
+Este projeto surgiu a partir de um exercício de Jokenpô que desenvolvi em Python durante um curso do Gustavo Guanabara. Posteriormente, adaptei a lógica para JavaScript e criei uma versão web utilizando HTML e CSS.
 
-Tive uma grande dificuldade para criar esse projeto, pois o meu botão do papel não estava funcionando corretamente; ele retornava como tesoura. Passei horas tentando corrigir sem sucesso. Até que, em momento de inspiração divina, me lembrei de corrigir cada parâmetro do código e descobri que o erro estava no HTML e não no JS, o parâmetro do papel estava escrito errado, por isso não era reconhecido. Agora, o projeto está pronto, e espero que vocês se divirtam!
+O jogador pode escolher entre pedra, papel ou tesoura para disputar contra o computador. A aplicação determina o resultado de cada rodada e mantém o placar das partidas.
+
+## Funcionalidades
+
+- Escolha entre pedra, papel e tesoura
+- Jogada aleatória do computador
+- Identificação de vitória, derrota ou empate
+- Atualização automática do placar
+- Reinício da partida
+- Imagem aleatória de fundo
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
 
 ## Demonstração
 
-<img src="Imagem/jokenpo.png" alt="Jokenpo" align="center" width="300"> 
+<img src="Imagem/jokenpo.png" alt="Jokenpo" align="center" width="800"> 
 
 ## Link do projeto
 
